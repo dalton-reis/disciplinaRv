@@ -1,5 +1,7 @@
 # Conceitos: Realidade Virtual (RV)
 
+Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
+
 No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto que está na "modinha".  
 
 ## Termos
@@ -172,7 +174,10 @@ Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#m
 Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit, [desenvolvimento Nativo](./DispositivosMoveis.md#desenvolvimento-nativo "desenvolvimento Nativo")) e assumi o compromisso de ser a maior plataforma de RA do Mundo. Como também a Google vem com a plataforma ARCore ([desenvolvimento Nativo](./DispositivosMoveis.md#desenvolvimento-nativo "desenvolvimento Nativo")), e a Microsoft já alguns anos no desenvolvimento do Hololens. Ou ainda opções de desenvolvimento [Multiplataforma](./DispositivosMoveis.md#desenvolvimento-multiplataforma "Multiplataforma"), como: [Vuforia](<https://en.wikipedia.org/wiki/Vuforia_Augmented_Reality_SDK> "Vuforia") ([Vuforia SDK](<https://developer.vuforia.com>)) e [Unity](<https://unity.com> "Unity") com o [AR Foundation](<https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html> "AR Foundation").  
 
 Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo virtual") no [mundo real](#mundo-real "mundo real") (mesa) permitindo a [interação](#interação "interação") entre dois jogadores.  
-![RA Apple](./RealidadeVirtual_imgs/RA_Apple.mov "RA Apple").  
+![MV Apple](RealidadeVirtual_imgs/MV_Apple.mov "MV Apple").  
+
+Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](<https://globoplay.globo.com/v/10807963/> "https://globoplay.globo.com/v/10807963/")).  
+[MV Cirurgia Avatar](RealidadeVirtual_imgs/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
 
 #### Metaverso - Para saber mais
 
