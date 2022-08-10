@@ -4,6 +4,8 @@ Material da disciplina de Realidade Virtual.
 
 <!-- ## [Cronograma](cronograma.md "cronograma")  -->
 
+## [Matriz curricular BCC](matriz_BCC.pdf "Matriz curricular BCC")  
+
 ## [Cronograma](cronograma.pdf "Cronograma")  
 
 ## [Unidade1](Unidade1 "Unidade 1")  
