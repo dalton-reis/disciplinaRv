@@ -140,6 +140,9 @@ Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outra
 <!-- [TODO: figura não aparece na Web qdo uso Areas.drawio.svg] -->  
 ![Realidade Misturada](./RealidadeVirtual_imgs/RM.svg "Realidade Misturada")  
 
+A “misturara” geralmente é de imagens, mas pode ser de áudio, so informação, outros sentidos .. tato -> IUT
+
+
 Para se pensar ...
 
     "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
@@ -179,6 +182,8 @@ Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo v
 Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](<https://globoplay.globo.com/v/10807963/> "https://globoplay.globo.com/v/10807963/")).  
 [MV Cirurgia Avatar](RealidadeVirtual_imgs/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
 
+Oportunidade de Pesquisa - Simulação Virtual de Saúde - [E-Mail](../_._/OLD/2022-2/Bolsas%20de%20TT-IV-A%20em%20Desenvolvimento%20Web%20-%20Fapesp%20Oportunidades.pdf "E-Mail)  
+
 #### Metaverso - Para saber mais
 
 - 09/02/2022: Os Metaversos e a transformação das Instituições Educacionais  
@@ -204,6 +209,12 @@ A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Sof
 
 Uma macro visão deste processo de [Interação](#interação "Interação") usando a relação Homem x Hardware x Software pode ser observado neste diagrama abaixo.  
 ![Interface - camadas](./RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
+
+### Sensores e Atuadores
+
+- Tipos: Ativos e Passivos  
+- Ativos estão se transformando em passivos  
+- Ajudam na ancoragem  
 
 ### Estereoscopia
 
