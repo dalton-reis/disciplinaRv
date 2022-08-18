@@ -1,32 +1,14 @@
 # Aula 01
 
-- Dalton e Mauricio: se apresenta
-- Mauricio: explica como será desenvolvido os projetos
-- Dalton (rápido): conceitos Unidade 1 até 21:10
+## 18:30~20:10
 
-- Maurício: formar as equipes
-- Equipes escolherem um tema: Dalton e Maurício assessorar os grupos
+- Dalton: trabalha o conteúdo da unidade 1 (me apresento, laboratório, disciplina etc.)
 
-## Equipes
+## 20:20~22:00
 
-Assunto 1: Realidade Virtual Imersiva (RVi): óculos (só mundo virtual)
-Christyelen / Thomas / Yuri
-Nicole / Marineusa / Alexia
+- Dalton e Mauricio: se apresenta  
+- Mauricio: explica como será desenvolvido os projetos  
+- Dalton (rápido): conceitos Unidade 1 até 21:10  
 
-Assunto 2: Realidade Aumentada (RA): smartphone (ver mundo virtual sobre o real)
-Igor / Bruno / Helio - Melissa
-Nicoli / Raissa
-
-Assunto 3: Realidade aLternativa (RL): GPS ("passear" pelo mundo real) mineia
-Mineia / Fabio / Mateus
-Amanda / Fernanda C. / Michele / Maria
-
-Assunto 4: Metaverso (pode usar RVi/RA/RA): propiciar cooperação / colaboração
-Leonardo / Sezio / Luiz
-Rayssa / Fernanda O.
-
-
-
-
-
-Pedir para copiar plano 2022/1 AP para o Robson
+- Maurício: formar as equipes  
+- Equipes escolherem um tema: Dalton e Maurício assessorar os grupos  

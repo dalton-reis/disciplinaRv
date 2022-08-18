@@ -1,40 +1,44 @@
-# Conceitos: Realidade Virtual (RV)
+# Realidade Virtual - Unidade 1  
+
+Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
+
+## Conceitos: Realidade Virtual (RV)
 
 Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
 
 No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto que está na "modinha".  
 
-## Termos
+### Termos
 
-### Imersão
+#### Imersão
 
 Sentimento de estar-se dentro do ambiente.  
 
-### Interação
+#### Interação
 
 Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele.  
 
-### Envolvimento
+#### Envolvimento
 
 Tange ao grau de motivação para conectar ("ligar") a pessoa com uma determinada atividade.  
 
-### Mundo Real
+#### Mundo Real
 
 Mundo físico onde vivemos.  
 
-### Mundo Virtual
+#### Mundo Virtual
 
 Mundo modelado virtualmente por modelos de computação gráfica que podem simular o [mundo real](#mundo-real "mundo real").  
 
-### Ancora RA
+#### Ancora RA
 
 Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "mundo virtual")) em um objeto real ([mundo real](#mundo-real "mundo real")). Este processo pode ser com pré-calibragem, usando um marcador <!-- link marcador --> do mundo real, ou processado em tempo real usando objeto reais dinâmicos. É considerado um dos processos mais importante para aumentar a [imersão](#imersão "imersão") do usuário, fazendo ele acreditar que o objeto virtual realmente existe no [mundo real](#mundo-real "mundo real"). Além de garantir o posicionamento do objeto virtual no [mundo real](#mundo-real "mundo real"), que pode ser mais complicado com mudanças constantes de posicionamento dos objetos do [mundo real](#mundo-real "mundo real"), como também considerando a mudança do próprio observador. Ou ainda, aumentando mais a complexidade se for considerado as mudanças de iluminação, entre outros aspectos do [mundo real](#mundo-real "mundo real").
 
-### Credibilidade
+#### Credibilidade
 
 O quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
 
-## História
+### História
 
 Alguns pontos marcantes na história da Realidade Virtual: Sensorama, Helmet e Ivan Sutherland.  
 
@@ -52,11 +56,11 @@ Equipamento para Visão Estereoscópica <!-- FIXME: link para explicação sobre
 
 O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de Realidade Aumentada para ambientes externos utilizando as coordenadas do Sistema de Posicionamento Global (Global Positioning System - GPS) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
 
-## Tipos de Realidades Virtuais
+### Tipos de Realidades Virtuais
 
 Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades: Realidades Virtual (Imersiva), Realidades Virtual Aumentada, Realidades Virtual Diminuída, Realidades Virtual Misturada, Realidades Virtual Alternativa e Metaverso.
 
-### Realidade Virtual Imersiva (RV / RVi)
+#### Realidade Virtual Imersiva (RV / RVi)
 
 A RV pode ser classificada conforme o nível de [interação](#interação "interação") do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na [imersão](#imersão "imersão"), como, por exemplo, capacete <!-- FIXME: link --> e luva <!-- FIXME: link --> para simulação de visão e tato, auxiliando a sensação de estar dentro de um [mundo virtual](#mundo-virtual "mundo virtual"). E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um [mundo virtual](#mundo-virtual "mundo virtual") sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
 
@@ -70,7 +74,7 @@ A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para
 
 Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi.  
 
-#### RV - Exemplos
+##### RV - Exemplos
 
 Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
 <!-- FIXME: uma imagem para RV de acordo com o texto abaixo -->
@@ -83,7 +87,7 @@ Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equ
 
 ![Usuário Diversão - Tato](./RealidadeVirtual_imgs/RVi_Diversao.png "Usuário Diversão")  
 
-### Realidade Virtual Aumentada (RA)  
+#### Realidade Virtual Aumentada (RA)  
 
 Uma aplicação de RA também é RV, mas uma aplicação de RV não é RA. Pois as aplicações que usam RA devem ter três características: combinar real com virtual, ter [interação](#interação "interação") em "tempo real" e usar o espaço 3D.  
 
@@ -93,14 +97,14 @@ Alguns pontos que devem ser observados:
 - único sentido: do virtual para real ou real para virtual (mais comum);  
 - necessidade de marcadores <!-- FIXME: link --> (âncoras) no [mundo real](#mundo-real "mundo real").  
 
-#### RA - Exemplos
+##### RA - Exemplos
 
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
 - [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RA_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
 - [Painel de Fotos com Jogadores](./RealidadeVirtual_imgs/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 ).  
 - [Rótulos de Garrafas](./RealidadeVirtual_imgs/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
 
-### Realidade Virtual Diminuída  
+#### Realidade Virtual Diminuída  
 
 Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos de RD são:  
 
@@ -114,7 +118,7 @@ Alguns pontos que devem ser observados com a RD:
 - pode ser utilizado em conjunto com a realidade aumentada, para proporcionar uma
 experiência de [imersão](#imersão "imersão") maior;  
 
-#### RD - Exemplos
+##### RD - Exemplos
 
 Remoção de objetos com um fundo complexo - [Chroma Key](<https://pt.wikipedia.org/wiki/Chroma_key> "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
 ![Objetos Removidos - Pessoa](./RealidadeVirtual_imgs/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
@@ -125,7 +129,7 @@ Remoção de objetos usando tablet em ambiente não estruturado.
 Remoção de objetos com seleção de região ([Region Of Interest - ROI](<https://en.wikipedia.org/wiki/Region_of_interest> "Region Of Interest - ROI")) em ambiente não estruturado.  
 ![Objetos Removidos Externo](./RealidadeVirtual_imgs/RD_Externo.mov "Objetos Removidos Externo")  
 
-### Realidade Virtual Misturada
+#### Realidade Virtual Misturada
 
 Mistura do virtual com real, e o real com o virtual, nos dois "sentidos".  
 
@@ -142,18 +146,17 @@ Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outra
 
 A “misturara” geralmente é de imagens, mas pode ser de áudio, so informação, outros sentidos .. tato -> IUT
 
-
 Para se pensar ...
 
     "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
 
-#### RM - Exemplos
+##### RM - Exemplos
 
 Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
 ![Corpo Humano](./RealidadeVirtual_imgs/RM_CorpoHololens.mov "Corpo Humano")  
 Para saber mais [(05/04/2022) O que é realidade misturada?](<https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality> "O que é realidade misturada?").  
 
-### Realidade Virtual Alternativa  
+#### Realidade Virtual Alternativa  
 
 Combinação de situações do virtual com o real.
 
@@ -162,13 +165,13 @@ Alguns pontos que devem ser observados:
 - transforma o [mundo real](#mundo-real "mundo real") em um cenário para a [interação](#interação "interação") do usuário;  
 - incentiva que os usuários se "movimentem" no [mundo real](#mundo-real "mundo real") para interagir com os objetos virtuais no [mundo real](#mundo-real "mundo real").  
 
-#### RAl - Exemplos
+##### RAl - Exemplos
 
 Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se via pessoas explorando o [mundo real](#mundo-real "mundo real") em busca de "recompensas" do [mundo virtual](#mundo-virtual "mundo virtual"). A RAl pode promover além do entretenimento, outras funcionalidades, por exemplo, "construir algo" com o apoio do coletivo (gratuito). Um exemplo desta "construção" coletiva são as estatísticas de transito no Aplicativo de navegação [Waze](<https://pt.wikipedia.org/wiki/Waze> "Waze").  
 
 - [Pokemon GO - Pokéball Plus](<https://www.youtube.com/watch?v=3UWnEo3A5fU> "Pokemon GO - Pokéball Plus")  
 
-### Metaverso  
+#### Metaverso  
 
 Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](<https://en.wikipedia.org/wiki/VRChat> "VRChat"), [Second Life](<https://pt.wikipedia.org/wiki/Second_Life> "Second Life"), [Roblox](<https://pt.wikipedia.org/wiki/Roblox> "Roblox"), [Fortnite](<https://pt.wikipedia.org/wiki/Fortnite> "Fortnite"), [Facebook Meta](<https://about.facebook.com/br/meta/> "Facebook Meta"), entre outros.  
 
@@ -184,7 +187,7 @@ Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://
 
 Oportunidade de Pesquisa - Simulação Virtual de Saúde - [E-Mail](../_._/OLD/2022-2/Bolsas%20de%20TT-IV-A%20em%20Desenvolvimento%20Web%20-%20Fapesp%20Oportunidades.pdf "E-Mail)  
 
-#### Metaverso - Para saber mais
+##### Metaverso - Para saber mais
 
 - 09/02/2022: Os Metaversos e a transformação das Instituições Educacionais  
   - [Apresentação](<https://youtu.be/PkWr7KhD44Q> "Apresentação")  
@@ -192,13 +195,13 @@ Oportunidade de Pesquisa - Simulação Virtual de Saúde - [E-Mail](../_._/OLD/2
 
 - 17/12/2021: [Onde Você Vai Viver e Trabalhar em Breve](<https://youtu.be/IqTC4lsxNfk> "Onde Você Vai Viver e Trabalhar em Breve")  
 
-#### Críticas e preocupações
+##### Críticas e preocupações
 
 A privacidade das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
 O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O transtorno do vício em Internet, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.  
 O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o [envolvimento](#envolvimento "envolvimento").  
 
-### Interface de Usuário Tangível (IUT)
+#### Interface de Usuário Tangível (IUT)
 
 Um conjunto de componentes que auxiliam na [interação](#interação "interação") entre um humano e um computador de maneira tangível, ou seja, através do ambiente físico.  
 
@@ -210,13 +213,13 @@ A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Sof
 Uma macro visão deste processo de [Interação](#interação "Interação") usando a relação Homem x Hardware x Software pode ser observado neste diagrama abaixo.  
 ![Interface - camadas](./RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
 
-### Sensores e Atuadores
+#### Sensores e Atuadores
 
 - Tipos: Ativos e Passivos  
 - Ativos estão se transformando em passivos  
 - Ajudam na ancoragem  
 
-### Estereoscopia
+#### Estereoscopia
 
 Como um dos principais sentidos explorado nas [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") é a visão, nos leva a alguns conceitos relacionados a este sentido. E principalmente para a [Realidade Virtual Imersiva - RVi](#realidade-virtual-imersiva-rv--rvi "Realidade Virtual Imersiva - RVi") se tem a Estereoscopia.
 
@@ -233,7 +236,7 @@ Alguns exemplos de videos com o efeito Estereoscópio podem ser vistos em: [Proj
 Estes exemplos são considerados como Estereoscópica Ativa, pois precisam de equipamentos especiais para gerar o efeito Paralaxe.
 Uma solução de muito mais baixo custo, mas com resultados mais simples são os considerados de Estereoscópica Passiva, como por exemplo os [Anaglifo](#anaglifo "Anaglifo").  
 
-#### Anaglifo
+##### Anaglifo
 
 Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornecer um efeito tridimensional estereoscópico quando visto com óculos de duas cores (cada lente com uma cor diferente). A imagem é formada por duas camadas de cor sobrepostas, mas com uma pequena distância entre as duas para produzir um efeito de profundidade, na mente de quem observa. O processo se dá quando as diferentes imagens são filtradas, uma para cada olho. Quando vista através de um filtro especial (no caso, os óculos), a imagem revela o efeito estereoscópico, parecendo "saltar" do plano em que estão (papel, TV, etc.).
 
@@ -243,14 +246,14 @@ Imagem representa o uso de dois padrões de cores para gerar o efeito [Anaglifo]
 O modelo mais "barato" de óculos que explora a Estereoscopia com o [Anaglifo](#anaglifo "Anaglifo").  
 ![Exemplo óculos Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
 
-## Tipos de Visualizações
+### Tipos de Visualizações
 
 <!--  FIXME: mais tipos, imagens para cada tipo. TCC do Evandro Schimit  -->
 Também existe classificações para os tipos de visualizações usadas em RV: Video See-Through, Optical See-Through, Projetiva ... e outras.  
 
-## SVR - Para saber mais
+### SVR - Para saber mais
 
-### Symposium on Virtual and Augmented Reality - SVR
+#### Symposium on Virtual and Augmented Reality - SVR
 
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
@@ -289,13 +292,13 @@ Também existe classificações para os tipos de visualizações usadas em RV: V
 - 02:23:00 [Perguntas e Respostas](<https://youtu.be/LU-LJUo6fyA?t=8583> "Perguntas e Respostas")  
 - 02:44:00 Encerramento
 
-### Mais exemplos
+#### Mais exemplos
 
 [Outros Exemplos](./OutrosExemplos/ "Outros Exemplos")  
 
 ----------
 
-## ⏭ [Dispositivos Móveis (DM)](./DispositivosMoveis.md "Dispositivos Móveis (DM)")  
+## ⏭ [Unidade 2](../Unidade2/README.md "Unidade 2")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  
