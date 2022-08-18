@@ -4,6 +4,20 @@ Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")
 
 [Atividade](atividade.md "Atividade")  
 
+## Conteúdo
+
+- Introdução a Realidade Virtual  
+  - História, evolução e futuro  
+  - Conceitos gerais  
+  - Principais áreas da Realidade Virtual: Realidade Virtual Imersiva, Realidade Aumentada, Realidade Diminuída, Realidade Misturada, Realidade Alternativa e Metaverso  
+  - Exemplos de aplicações de Realidade Virtual: conhecer conceitos gerais sobre Realidade Virtual  
+
+## Objetivos
+
+- conhecer estado atual e futuras projeções no uso de Realidade Virtual  
+- entender a relação da área de Realidade Virtual com as outras áreas gráficas  
+- explorar exemplos de aplicações de Realidade Virtual  
+
 ## Conceitos: Realidade Virtual (RV)
 
 No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto que está na "modinha".  
