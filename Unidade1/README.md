@@ -185,7 +185,7 @@ Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo v
 Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](<https://globoplay.globo.com/v/10807963/> "https://globoplay.globo.com/v/10807963/")).  
 [MV Cirurgia Avatar](RealidadeVirtual_imgs/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
 
-Oportunidade de Pesquisa - Simulação Virtual de Saúde - [E-Mail](../_._/OLD/2022-2/Bolsas%20de%20TT-IV-A%20em%20Desenvolvimento%20Web%20-%20Fapesp%20Oportunidades.pdf "E-Mail)  
+Oportunidade de Pesquisa - Simulação Virtual de Saúde - [E-Mail](../_._/OLD/2022-2/Bolsas%20de%20TT-IV-A%20em%20Desenvolvimento%20Web%20-%20Fapesp%20Oportunidades.pdf "E-Mail")  
 
 ##### Metaverso - Para saber mais
 
