@@ -231,7 +231,7 @@ A percepção de imagem estereoscópica pode ser obtida naturalmente através da
 
 As vezes além do efeito Estereoscópio se usa alguns "truques" de Ilusão de Ótica.  
 ![Truques de Ilusão de Ótica](./RealidadeVirtual_imgs/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
-Alguns exemplos de videos com o efeito Estereoscópio podem ser vistos em: [Projeção 3D](RealidadeVirtual_imgs/Projetor3D/ "Projeção 3D").  
+Alguns exemplos de videos com o efeito Estereoscópio podem ser vistos em: [Projeção 3D](../Unidade2/ExemplosHardware/ExemplosExternos/Projetor3D "Projeção 3D").  
 
 Estes exemplos são considerados como Estereoscópica Ativa, pois precisam de equipamentos especiais para gerar o efeito Paralaxe.
 Uma solução de muito mais baixo custo, mas com resultados mais simples são os considerados de Estereoscópica Passiva, como por exemplo os [Anaglifo](#anaglifo "Anaglifo").  
@@ -294,7 +294,7 @@ Também existe classificações para os tipos de visualizações usadas em RV: V
 
 #### Mais exemplos
 
-[Outros Exemplos](./OutrosExemplos/ "Outros Exemplos")  
+[Outros Exemplos](ExemplosSoftware/ "Outros Exemplos")  
 
 ----------
 
