@@ -6,19 +6,8 @@ Bom, agora que sua equipe já tem definido o [Tema](../Unidade1/atividade.md#tem
 
 ### 2 - Apresentação Atividade (equipe)
 
-\[peso: 10,0] Nesta atividade cada equipe deve escolher três hardwares (por exemplo, [Hardwares de Realidade Virtual](#hardwares-de-realidade-virtual) "Hardwares de Realidade Virtual") que tenham relação com o [Tema](../Unidade1/atividade.md#temas "Tema") definido para sua equipe e prepare uma apresentação demonstrando as suas [principais características](#características-dos-hardwares "principais características"). A equipe deve postar os slides em PDF antes de apresentar a atividade no GitHub criado pelo professor para sua equipe (na pasta unidade_2).  
+\[peso: 10,0] Nesta atividade cada equipe deve escolher três hardwares (por exemplo, [Hardwares de Realidade Virtual](#hardwares-de-realidade-virtual "Hardwares de Realidade Virtual") que tenham relação com o [Tema](../Unidade1/atividade.md#temas "Tema") definido para sua equipe e prepare uma apresentação demonstrando as suas [principais características](#características-dos-hardwares "principais características"). A equipe deve postar os slides em PDF antes de apresentar a atividade no GitHub criado pelo professor para sua equipe (na pasta unidade_2).  
 Como parâmetro (aproximado) usem no máximo uns 5 minutos para cada aplicativo e 5 minutos para discussão.  
-
-## Características dos hardwares  
-
-Lembrem de trabalhar as suas características:  
-
-- tipo de informação: vetorial (V) e raster (R)  
-- dimensão da informação: 1D, 2D, 3D ... 4D, ND etc  
-- sistema absoluto (A) e/ou relativo (T)  
-- entrada (E), processo (P) e saída (S)  
-- tipo de mídia: video (Vi), imagem (Im), audio (Au), tato (Ta)  
-- posicionamento (movimentação / localização / ancoragem): macro (Pa) ou micro (Pi)  
 
 ## Hardwares de Realidade Virtual
 
@@ -43,4 +32,15 @@ Por exemplo, segue alguns hardwares, mas específicos para Realidade Virtual:
 - Som 8D  
 - projetores 3D  
 - Kinect  
-- Marcadores de Realidade Virtual  
+- Marcadores de Realidade Aumentada (Target Image etc)  
+
+## Características dos hardwares  
+
+Lembrem de trabalhar as suas características:  
+
+- tipo de informação: vetorial (V) e raster (R)  
+- dimensão da informação: 1D, 2D, 3D ... 4D, ND etc  
+- sistema absoluto (A) e/ou relativo (T)  
+- entrada (E), processo (P) e saída (S)  
+- tipo de mídia: video (Vi), imagem (Im), audio (Au), tato (Ta)  
+- posicionamento (movimentação / localização / ancoragem): macro (Pa) ou micro (Pi)  
