@@ -32,7 +32,7 @@ Por exemplo, segue alguns hardwares, mas específicos para Realidade Virtual:
 - Som 8D  
 - projetores 3D  
 - Kinect  
-- Marcadores de Realidade Aumentada (Target Image etc)  
+- Marcadores de Realidade Aumentada ([Target Image](https://library.vuforia.com/objects/image-targets "Target Image") etc)  
 
 ## Características dos hardwares  
 
