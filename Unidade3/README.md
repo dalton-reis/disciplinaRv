@@ -36,11 +36,11 @@ senha: Ldtt2022
 
 ### Objetos e imagens gráficas
 
-- https://www.svgrepo.com
-- https://undraw.co
-- https://icons8.com.br
-- https://opengameart.org
-- https://sketchfab.com
+- <https://www.svgrepo.com>
+- <https://undraw.co>
+- <https://icons8.com.br>
+- <https://opengameart.org>
+- <https://sketchfab.com>
 
 ----------
 
