@@ -25,6 +25,15 @@ Depois passar para o Kanban do GitHub (https://docs.github.com/en/issues/plannin
 
 Uma breve descrição das principais funcionalidades do Unity pode ser vista em: [Unity/README.md](Unity/README.md "Unity/README.md")  
 
+#### Curso Unity
+
+Fazer o curso sobre Unity para praticar conceitos relacionados com este motor de jogos  
+Link: <https://www.udemy.com/share/101IFc3@cc15Cc09RRi4yhvNL17lYSoHfd2Sagan3-tQIIldehXIIHY8AdA4ipDhZ2C0-kT5/>  
+
+Pode usar o usuário do LDTT  
+login: atendimento.ldtt@gmail.com  
+senha: Ldtt2022  
+
 ----------
 
 ## ⏭ [Unidade 4](../Unidade4/README.md "Unidade 4")  
