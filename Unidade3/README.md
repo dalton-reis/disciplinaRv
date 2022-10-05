@@ -34,6 +34,14 @@ Pode usar o usuário do LDTT
 login: atendimento.ldtt@gmail.com  
 senha: Ldtt2022  
 
+### Objetos e imagens gráficas
+
+- https://www.svgrepo.com
+- https://undraw.co
+- https://icons8.com.br
+- https://opengameart.org
+- https://sketchfab.com
+
 ----------
 
 ## ⏭ [Unidade 4](../Unidade4/README.md "Unidade 4")  
